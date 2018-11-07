@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+Section {
+	top: 260px;
+	width: 90%;
+	background-color: rgba(0,0,0,1);
+	float: none;
+	right: 5%;
+	left: 5%;
+}
+
+Header {
+	width: 480px;
+}
+
+
+body {
+	background-size: auto;
+}
